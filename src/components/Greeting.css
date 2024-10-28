@@ -1,0 +1,21 @@
+.container{
+    width: 500px;
+    height: 560px;
+    background-color: rgba(30, 178, 178, 0.898);
+    position: absolute;
+    top: 5%;
+    left: 32%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.container h2{
+    font-size: 50px;
+}
+.container h1{
+    font-size: 40px;
+}
+.container p{
+    font-size: 40px;
+    color: red;
+}
